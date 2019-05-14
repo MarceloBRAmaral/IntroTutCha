@@ -6,7 +6,7 @@ Many of the challenges on HackerRank are difficult and assume that you already k
 
 The first series of challenges covers sorting. They are listed below:
 
-Tutorial Challenges - Sorting
+### Tutorial Challenges - Sorting
 
 Insertion Sort challenges
 
