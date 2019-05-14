@@ -1,4 +1,4 @@
-# IntroTutCha
+# Intro to Tutorial Challenges
 
 ### About Tutorial Challenges
 
