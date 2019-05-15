@@ -12,7 +12,7 @@ Insertion Sort challenges
 
 - Insertion Sort 1 - Inserting
 - Insertion Sort 2 - Sorting
-    Correctness and loop invariant
+- Correctness and loop invariant
     Running Time of Algorithms
 
 Quicksort challenges
