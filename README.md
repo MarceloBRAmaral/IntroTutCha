@@ -18,7 +18,7 @@ Insertion Sort challenges
 Quicksort challenges
 
 - Quicksort 1 - Partition
-    Quicksort 2 - Sorting
+- Quicksort 2 - Sorting
     Quicksort In-place (advanced)
     Running time of Quicksort
 
