@@ -24,7 +24,7 @@ Quicksort challenges
 
 Counting sort challenges
 
-    Counting Sort 1 - Counting
+- Counting Sort 1 - Counting
     Counting Sort 2 - Simple sort
     Counting Sort 3 - Preparing
     Full Counting Sort (advanced)
