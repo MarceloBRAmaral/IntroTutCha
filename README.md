@@ -11,8 +11,7 @@ The first series of challenges covers sorting. They are listed below:
 Insertion Sort challenges
 
 - Insertion Sort 1 - Inserting
-
-    Insertion Sort 2 - Sorting
+- Insertion Sort 2 - Sorting
     Correctness and loop invariant
     Running Time of Algorithms
 
