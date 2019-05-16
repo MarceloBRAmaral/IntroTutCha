@@ -39,7 +39,8 @@ There may be time limits that will force you to make your code efficient. If you
 
 For many challenges, helper methods (like an array) will be provided for you to process the input into a useful format. You can use these methods to get started with your program, or you can write your own input methods if you want. Your code just needs to print the right output to each test case.
 
-Sample Challenge
+### Sample Challenge
+
 This is a simple challenge to get things started. Given a sorted array (
 ) and a number (), can you print the index location of
 
