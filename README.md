@@ -43,7 +43,7 @@ For many challenges, helper methods (like an array) will be provided for you to 
 
 This is a simple challenge to get things started. Given a sorted array (***arr***) and a number (***V***), can you print the index location of ***V*** in the array?
 
-For example, if
+For example, if ***arr = [1,2,3]***
 and , you would print
 
 for a zero-based index array.
