@@ -41,9 +41,7 @@ For many challenges, helper methods (like an array) will be provided for you to 
 
 ### Sample Challenge
 
-This is a simple challenge to get things started. Given a sorted array (***arr***) and a number (***V***), can you print the index location of
-
-in the array?
+This is a simple challenge to get things started. Given a sorted array (***arr***) and a number (***V***), can you print the index location of ***V*** in the array?
 
 For example, if
 and , you would print
