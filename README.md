@@ -31,7 +31,8 @@ Counting sort challenges
 
 There will also be some challenges where you'll get to apply what you've learned using the completed algorithms.
 
-About the Challenges
+### About the Challenges
+
 Each challenge will describe a scenario and you will code a solution. As you progress through the challenges, you will learn some important concepts in algorithms. In each challenge, you will receive input on STDIN and you will need to print the correct output to STDOUT.
 
 There may be time limits that will force you to make your code efficient. If you receive a "Terminated due to time out" message when you submit your solution, you'll need to reconsider your method. If you want to test your code locally, each test case can be downloaded, inputs and expected results, using hackos. You earn hackos as you solve challenges, and you can spend them on these tests.
