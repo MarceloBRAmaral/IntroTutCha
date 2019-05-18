@@ -62,9 +62,7 @@ The next section describes the input format. You can often skip it, if you are u
 
 The first line contains an integer, ***V***, a value to search for.
 
-The next line contains an integer, ***n***, the size of ***arr***. The last line contains space-separated integers, each a value of where
-
-.
+The next line contains an integer, ***n***, the size of ***arr***. The last line contains ***n*** space-separated integers, each a value of ***arr[i]*** where ***0 <= i < n***.
 
 Output Format
 Output the index of
