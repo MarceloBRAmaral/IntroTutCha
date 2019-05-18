@@ -53,8 +53,8 @@ Complete the introTutorial function in the editor below. It must return an integ
 
 introTutorial has the following parameter(s):
 
-    arr: a sorted array of integers
-    V: an integer to search for
+- ***arr***: a sorted array of integers
+- ***V***: an integer to search for
 
 The next section describes the input format. You can often skip it, if you are using included methods or code stubs.
 
