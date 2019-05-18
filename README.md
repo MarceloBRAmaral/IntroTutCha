@@ -47,7 +47,7 @@ For example, if ***arr = [1,2,3]*** and ***V = 3***, you would print ***2*** for
 
 If you are going to use the provided code for I/O, this next section is for you.
 
-Function Description
+### Function Description
 
 Complete the introTutorial function in the editor below. It must return an integer representing the zero-based index of
 
