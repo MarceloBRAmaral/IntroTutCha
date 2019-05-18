@@ -49,9 +49,7 @@ If you are going to use the provided code for I/O, this next section is for you.
 
 ### Function Description
 
-Complete the introTutorial function in the editor below. It must return an integer representing the zero-based index of
-
-.
+Complete the introTutorial function in the editor below. It must return an integer representing the zero-based index of ***V***.
 
 introTutorial has the following parameter(s):
 
