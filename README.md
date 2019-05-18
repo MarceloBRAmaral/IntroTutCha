@@ -64,7 +64,8 @@ The first line contains an integer, ***V***, a value to search for.
 
 The next line contains an integer, ***n***, the size of ***arr***. The last line contains ***n*** space-separated integers, each a value of ***arr[i]*** where ***0 <= i < n***.
 
-Output Format
+### Output Format
+
 Output the index of
 
 in the array.
