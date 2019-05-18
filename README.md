@@ -58,7 +58,7 @@ introTutorial has the following parameter(s):
 
 The next section describes the input format. You can often skip it, if you are using included methods or code stubs.
 
-Input Format
+### Input Format
 
 The first line contains an integer,
 , a value to search for.
