@@ -61,6 +61,7 @@ The next section describes the input format. You can often skip it, if you are u
 ### Input Format
 
 The first line contains an integer, ***V***, a value to search for.
+
 The next line contains an integer, ***n***, the size of ***arr***. The last line contains space-separated integers, each a value of where
 
 .
