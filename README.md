@@ -66,9 +66,7 @@ The next line contains an integer, ***n***, the size of ***arr***. The last line
 
 ### Output Format
 
-Output the index of
-
-in the array.
+Output the index of ***V*** in the array.
 
 The next section describes the constraints and ranges of the input. You should check this section to know the range of the input.
 
