@@ -78,7 +78,7 @@ The next section describes the constraints and ranges of the input. You should c
 
 This "sample" shows the first input test case. It is often useful to go through the sample to understand a challenge.
 
-Sample Input 0
+### Sample Input 0
 
 4
 6
