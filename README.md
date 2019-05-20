@@ -72,6 +72,8 @@ The next section describes the constraints and ranges of the input. You should c
 
 ### Constraints
 
+- ***1 <= n <= 1000***
+
 It is guaranteed that will occur in
 
     exactly once.
