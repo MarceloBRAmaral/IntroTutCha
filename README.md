@@ -86,7 +86,7 @@ This "sample" shows the first input test case. It is often useful to go through 
 
 ### Sample Output 0
 
-1
+    1
 
 Explanation 0
 . The value is the element in the array, but its index is since in this case, array indices start from (see array definition under Input Format).
