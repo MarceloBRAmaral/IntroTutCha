@@ -84,7 +84,7 @@ This "sample" shows the first input test case. It is often useful to go through 
     6
     1 4 5 7 9 12
 
-Sample Output 0
+### Sample Output 0
 
 1
 
