@@ -70,7 +70,7 @@ Output the index of ***V*** in the array.
 
 The next section describes the constraints and ranges of the input. You should check this section to know the range of the input.
 
-Constraints
+### Constraints
 
 It is guaranteed that will occur in
 
