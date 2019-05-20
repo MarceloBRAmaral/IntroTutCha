@@ -74,10 +74,7 @@ The next section describes the constraints and ranges of the input. You should c
 
 - ***1 <= n <= 1000***
 - ***-1000 <= V <= 1000, V ∈ arr***
-
-It is guaranteed that will occur in
-
-    exactly once.
+- It is guaranteed that ***V*** will occur in ***arr*** exactly once.
 
 This "sample" shows the first input test case. It is often useful to go through the sample to understand a challenge.
 
