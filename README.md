@@ -90,4 +90,4 @@ This "sample" shows the first input test case. It is often useful to go through 
 
 ### Explanation 0
 
-. The value is the element in the array, but its index is since in this case, array indices start from (see array definition under Input Format).
+***V = 4***. The value ***4*** is the ***2nd*** element in the array, but its index is ***1*** since in this case, array indices start from ***0*** (see array definition under Input Format).
