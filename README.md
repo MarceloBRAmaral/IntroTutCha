@@ -73,6 +73,7 @@ The next section describes the constraints and ranges of the input. You should c
 ### Constraints
 
 - ***1 <= n <= 1000***
+- ***-1000 <= V <= 1000, V ∈ arr***
 
 It is guaranteed that will occur in
 
